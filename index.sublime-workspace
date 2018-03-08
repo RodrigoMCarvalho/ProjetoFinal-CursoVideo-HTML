@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size-adjust"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"c",
+				"cSenha"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"m",
+				"mp4"
+			],
+			[
+				"_",
+				"_media"
+			],
+			[
+				"bACK",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mA",
+				"margin-right"
+			],
+			[
+				"im",
+				"img-dir"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"glas",
+				"glass-oculos-preto-peq"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmou",
+				"onmouseover\tAttr"
+			],
+			[
+				"gl",
+				"glass-oculos-preto-peq"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"apagaLampada"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"acen",
+				"acendeLampada"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Fonte",
+				"Fontelogo"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"bl",
+				"_blank"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fale-conosco.html",
+			"settings":
+			{
+				"buffer_size": 5490,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/testejs03.html",
+		"/C/xampp/htdocs/teste.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/estilo.css",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/form.css",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/fale-conosco.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/index.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/fotos.css",
+		"/C/Users/rodri_000/Documents/WEB/estilos.css",
+		"/C/Users/rodri_000/Documents/WEB/index.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/multimidia.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/media.css",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/fotos.html",
+		"/C/Users/rodri_000/Desktop/info.php",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/specs.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/specs.css",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/google-glass-txt.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_textos/google-glass-txt.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_javascript/funcoes.js",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/testejs02.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/testejs01.html",
+		"/C/Users/rodri_000/Desktop/Dsenvolvimento Web/HTML/projeto-glass-html5/_css/testejs01.html"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fale-conosco.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1915,
+								1915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 764.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
